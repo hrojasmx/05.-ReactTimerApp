@@ -15,7 +15,7 @@ var Navigation = () => {
           </li>
           <li>
             {/* link to a subpage */}
-            <Link to="/" activeClassName="active-link">Countdown</Link>
+            <Link to="/countdown" activeClassName="active-link">Countdown</Link>
           </li>
         </ul>
       </div>
